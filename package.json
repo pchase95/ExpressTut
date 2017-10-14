@@ -1,0 +1,16 @@
+{
+  "name": "expressfun",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Derek Banas Express Tut",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Chase",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "express-handlebars": "*"
+  }
+}
